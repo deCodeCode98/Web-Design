@@ -2,6 +2,12 @@ body {
     background-color: rgb(187, 187, 187);
 }
 
+h1 {
+  color: white;
+  font-style:oblique;
+}
+
+
 
 .navegacion {
   width: 900px;
